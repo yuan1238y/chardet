@@ -3,7 +3,7 @@ package chardet_test
 import (
 	"fmt"
 
-	"github.com/yuan1238/chardet"
+	"github.com/yuan1238y/chardet"
 )
 
 var (
